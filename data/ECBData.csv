@@ -1,0 +1,649 @@
+Date,Time Period,Geography,Indicator,Value,Unit,Series Code
+2020-06-30,2020Q2,SSM,Loan-to-deposit ratio,110.81,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,SSM,Total assets,24430.6881,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2020-06-30,2020Q2,SSM,Return on equity (RoE),0.01,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,SSM,Cost of risk,0.70,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,SSM,Net interest margin,1.28,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,SSM,Liquidity coverage ratio,165.18,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,SSM,CET1 (Common equity Tier 1) ratio,14.89,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,SSM,Non-performing loans ratio (excl. cash balances),3.50,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,SSM,Stage 2 loans ratio,8.41,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Germany,Loan-to-deposit ratio,131.64,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Germany,Total assets,4177.9073,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2020-06-30,2020Q2,Germany,Return on equity (RoE),0.86,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Germany,Cost of risk,0.51,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Germany,Net interest margin,0.97,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Germany,Liquidity coverage ratio,152.80,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Germany,CET1 (Common equity Tier 1) ratio,14.83,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Germany,Non-performing loans ratio (excl. cash balances),1.54,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Germany,Stage 2 loans ratio,7.27,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Italy,Loan-to-deposit ratio,104.63,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Italy,Total assets,2567.7238,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2020-06-30,2020Q2,Italy,Return on equity (RoE),0.14,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Italy,Cost of risk,0.47,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Italy,Net interest margin,1.28,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Italy,Liquidity coverage ratio,180.01,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Italy,CET1 (Common equity Tier 1) ratio,14.78,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Italy,Non-performing loans ratio (excl. cash balances),6.59,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2020-06-30,2020Q2,Italy,Stage 2 loans ratio,11.27,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,SSM,Loan-to-deposit ratio,108.32,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,SSM,Total assets,24357.0795,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2020-09-30,2020Q3,SSM,Return on equity (RoE),2.12,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,SSM,Cost of risk,0.67,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,SSM,Net interest margin,1.27,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,SSM,Liquidity coverage ratio,170.62,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,SSM,CET1 (Common equity Tier 1) ratio,15.20,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,SSM,Non-performing loans ratio (excl. cash balances),3.43,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,SSM,Stage 2 loans ratio,8.16,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Germany,Loan-to-deposit ratio,127.69,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Germany,Total assets,4205.4976,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2020-09-30,2020Q3,Germany,Return on equity (RoE),1.43,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Germany,Cost of risk,0.44,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Germany,Net interest margin,0.93,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Germany,Liquidity coverage ratio,162.39,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Germany,CET1 (Common equity Tier 1) ratio,15.46,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Germany,Non-performing loans ratio (excl. cash balances),1.53,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Germany,Stage 2 loans ratio,6.90,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Italy,Loan-to-deposit ratio,101.02,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Italy,Total assets,2605.1238,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2020-09-30,2020Q3,Italy,Return on equity (RoE),3.57,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Italy,Cost of risk,0.61,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Italy,Net interest margin,1.20,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Italy,Liquidity coverage ratio,191.96,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Italy,CET1 (Common equity Tier 1) ratio,15.13,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Italy,Non-performing loans ratio (excl. cash balances),5.96,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2020-09-30,2020Q3,Italy,Stage 2 loans ratio,11.42,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,SSM,Loan-to-deposit ratio,106.76,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,SSM,Total assets,24175.6162,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2020-12-31,2020Q4,SSM,Return on equity (RoE),1.53,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,SSM,Cost of risk,0.69,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,SSM,Net interest margin,1.28,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,SSM,Liquidity coverage ratio,171.32,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,SSM,CET1 (Common equity Tier 1) ratio,15.65,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,SSM,Non-performing loans ratio (excl. cash balances),3.22,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,SSM,Stage 2 loans ratio,9.27,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Germany,Loan-to-deposit ratio,125.23,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Germany,Total assets,4201.3464,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2020-12-31,2020Q4,Germany,Return on equity (RoE),0.56,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Germany,Cost of risk,0.43,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Germany,Net interest margin,0.94,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Germany,Liquidity coverage ratio,156.67,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Germany,CET1 (Common equity Tier 1) ratio,15.90,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Germany,Non-performing loans ratio (excl. cash balances),1.53,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Germany,Stage 2 loans ratio,9.34,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Italy,Loan-to-deposit ratio,97.37,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Italy,Total assets,2645.5991,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2020-12-31,2020Q4,Italy,Return on equity (RoE),0.23,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Italy,Cost of risk,0.90,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Italy,Net interest margin,1.20,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Italy,Liquidity coverage ratio,187.02,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Italy,CET1 (Common equity Tier 1) ratio,15.50,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Italy,Non-performing loans ratio (excl. cash balances),5.07,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2020-12-31,2020Q4,Italy,Stage 2 loans ratio,13.84,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,SSM,Loan-to-deposit ratio,106.07,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,SSM,Total assets,25218.0210,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-03-31,2021Q1,SSM,Return on equity (RoE),7.21,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,SSM,Cost of risk,0.64,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,SSM,Net interest margin,1.19,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,SSM,Liquidity coverage ratio,172.27,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,SSM,CET1 (Common equity Tier 1) ratio,15.49,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,SSM,Non-performing loans ratio (excl. cash balances),3.21,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,SSM,Stage 2 loans ratio,9.23,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Germany,Loan-to-deposit ratio,124.08,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Germany,Total assets,4453.2280,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-03-31,2021Q1,Germany,Return on equity (RoE),4.84,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Germany,Cost of risk,0.28,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Germany,Net interest margin,0.87,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Germany,Liquidity coverage ratio,163.21,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Germany,CET1 (Common equity Tier 1) ratio,15.44,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Germany,Non-performing loans ratio (excl. cash balances),1.47,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Germany,Stage 2 loans ratio,9.52,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Italy,Loan-to-deposit ratio,97.59,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Italy,Total assets,2706.6021,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-03-31,2021Q1,Italy,Return on equity (RoE),8.18,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Italy,Cost of risk,0.58,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Italy,Net interest margin,1.14,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Italy,Liquidity coverage ratio,193.91,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Italy,CET1 (Common equity Tier 1) ratio,15.51,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Italy,Non-performing loans ratio (excl. cash balances),5.07,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-03-31,2021Q1,Italy,Stage 2 loans ratio,13.45,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,SSM,Loan-to-deposit ratio,104.74,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,SSM,Total assets,25296.2270,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-06-30,2021Q2,SSM,Return on equity (RoE),6.92,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,SSM,Cost of risk,0.57,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,SSM,Net interest margin,1.19,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,SSM,Liquidity coverage ratio,173.81,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,SSM,CET1 (Common equity Tier 1) ratio,15.60,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,SSM,Non-performing loans ratio (excl. cash balances),2.97,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,SSM,Stage 2 loans ratio,9.01,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Germany,Loan-to-deposit ratio,122.26,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Germany,Total assets,4482.7052,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-06-30,2021Q2,Germany,Return on equity (RoE),4.15,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Germany,Cost of risk,0.22,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Germany,Net interest margin,0.84,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Germany,Liquidity coverage ratio,159.76,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Germany,CET1 (Common equity Tier 1) ratio,15.74,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Germany,Non-performing loans ratio (excl. cash balances),1.43,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Germany,Stage 2 loans ratio,8.68,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Italy,Loan-to-deposit ratio,96.36,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Italy,Total assets,2758.6469,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-06-30,2021Q2,Italy,Return on equity (RoE),7.76,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Italy,Cost of risk,0.59,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Italy,Net interest margin,1.13,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Italy,Liquidity coverage ratio,197.11,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Italy,CET1 (Common equity Tier 1) ratio,15.40,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Italy,Non-performing loans ratio (excl. cash balances),4.79,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-06-30,2021Q2,Italy,Stage 2 loans ratio,13.48,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,SSM,Loan-to-deposit ratio,104.03,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,SSM,Total assets,25676.6891,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-09-30,2021Q3,SSM,Return on equity (RoE),7.19,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,SSM,Cost of risk,0.53,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,SSM,Net interest margin,1.18,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,SSM,Liquidity coverage ratio,173.78,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,SSM,CET1 (Common equity Tier 1) ratio,15.47,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,SSM,Non-performing loans ratio (excl. cash balances),2.80,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,SSM,Stage 2 loans ratio,8.85,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Germany,Loan-to-deposit ratio,122.38,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Germany,Total assets,4533.1509,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-09-30,2021Q3,Germany,Return on equity (RoE),4.40,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Germany,Cost of risk,0.20,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Germany,Net interest margin,0.82,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Germany,Liquidity coverage ratio,162.26,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Germany,CET1 (Common equity Tier 1) ratio,15.60,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Germany,Non-performing loans ratio (excl. cash balances),1.41,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Germany,Stage 2 loans ratio,8.47,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Italy,Loan-to-deposit ratio,95.11,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Italy,Total assets,2772.8124,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-09-30,2021Q3,Italy,Return on equity (RoE),7.37,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Italy,Cost of risk,0.59,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Italy,Net interest margin,1.13,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Italy,Liquidity coverage ratio,198.45,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Italy,CET1 (Common equity Tier 1) ratio,15.30,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Italy,Non-performing loans ratio (excl. cash balances),4.63,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-09-30,2021Q3,Italy,Stage 2 loans ratio,12.65,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,SSM,Loan-to-deposit ratio,104.38,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,SSM,Total assets,25091.6599,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-12-31,2021Q4,SSM,Return on equity (RoE),6.70,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,SSM,Cost of risk,0.50,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,SSM,Net interest margin,1.21,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,SSM,Liquidity coverage ratio,173.43,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,SSM,CET1 (Common equity Tier 1) ratio,15.60,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,SSM,Non-performing loans ratio (excl. cash balances),2.61,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,SSM,Stage 2 loans ratio,9.14,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Germany,Loan-to-deposit ratio,126.15,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Germany,Total assets,4336.9480,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-12-31,2021Q4,Germany,Return on equity (RoE),4.10,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Germany,Cost of risk,0.22,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Germany,Net interest margin,0.88,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Germany,Liquidity coverage ratio,162.54,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Germany,CET1 (Common equity Tier 1) ratio,15.50,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Germany,Non-performing loans ratio (excl. cash balances),1.35,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Germany,Stage 2 loans ratio,8.97,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Italy,Loan-to-deposit ratio,92.63,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Italy,Total assets,2749.2796,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2021-12-31,2021Q4,Italy,Return on equity (RoE),5.07,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Italy,Cost of risk,0.64,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Italy,Net interest margin,1.16,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Italy,Liquidity coverage ratio,192.44,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Italy,CET1 (Common equity Tier 1) ratio,15.31,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Italy,Non-performing loans ratio (excl. cash balances),3.94,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2021-12-31,2021Q4,Italy,Stage 2 loans ratio,14.13,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,SSM,Loan-to-deposit ratio,104.49,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,SSM,Total assets,26458.1572,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-03-31,2022Q1,SSM,Return on equity (RoE),6.04,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,SSM,Cost of risk,0.56,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,SSM,Net interest margin,1.20,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,SSM,Liquidity coverage ratio,167.39,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,SSM,CET1 (Common equity Tier 1) ratio,14.99,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,SSM,Non-performing loans ratio (excl. cash balances),2.51,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,SSM,Stage 2 loans ratio,9.28,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Germany,Loan-to-deposit ratio,122.67,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Germany,Total assets,4776.9056,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-03-31,2022Q1,Germany,Return on equity (RoE),4.17,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Germany,Cost of risk,0.31,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Germany,Net interest margin,0.84,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Germany,Liquidity coverage ratio,154.92,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Germany,CET1 (Common equity Tier 1) ratio,15.32,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Germany,Non-performing loans ratio (excl. cash balances),1.29,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Germany,Stage 2 loans ratio,9.17,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Italy,Loan-to-deposit ratio,90.81,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Italy,Total assets,2872.0093,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-03-31,2022Q1,Italy,Return on equity (RoE),5.79,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Italy,Cost of risk,0.66,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Italy,Net interest margin,1.16,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Italy,Liquidity coverage ratio,193.73,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Italy,CET1 (Common equity Tier 1) ratio,14.60,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Italy,Non-performing loans ratio (excl. cash balances),3.77,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-03-31,2022Q1,Italy,Stage 2 loans ratio,13.07,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,SSM,Loan-to-deposit ratio,105.33,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,SSM,Total assets,26765.3797,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-06-30,2022Q2,SSM,Return on equity (RoE),7.59,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,SSM,Cost of risk,0.52,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,SSM,Net interest margin,1.23,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,SSM,Liquidity coverage ratio,164.31,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,SSM,CET1 (Common equity Tier 1) ratio,14.96,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,SSM,Non-performing loans ratio (excl. cash balances),2.35,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,SSM,Stage 2 loans ratio,9.72,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Germany,Loan-to-deposit ratio,125.27,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Germany,Total assets,4976.9688,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-06-30,2022Q2,Germany,Return on equity (RoE),5.37,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Germany,Cost of risk,0.29,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Germany,Net interest margin,0.86,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Germany,Liquidity coverage ratio,149.10,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Germany,CET1 (Common equity Tier 1) ratio,15.14,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Germany,Non-performing loans ratio (excl. cash balances),1.25,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Germany,Stage 2 loans ratio,10.51,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Italy,Loan-to-deposit ratio,92.31,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Italy,Total assets,2848.2922,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-06-30,2022Q2,Italy,Return on equity (RoE),9.07,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Italy,Cost of risk,0.69,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Italy,Net interest margin,1.22,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Italy,Liquidity coverage ratio,181.23,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Italy,CET1 (Common equity Tier 1) ratio,14.90,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Italy,Non-performing loans ratio (excl. cash balances),3.20,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-06-30,2022Q2,Italy,Stage 2 loans ratio,13.59,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,SSM,Loan-to-deposit ratio,104.75,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,SSM,Total assets,27770.9654,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-09-30,2022Q3,SSM,Return on equity (RoE),7.55,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,SSM,Cost of risk,0.48,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,SSM,Net interest margin,1.23,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,SSM,Liquidity coverage ratio,161.98,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,SSM,CET1 (Common equity Tier 1) ratio,14.74,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,SSM,Non-performing loans ratio (excl. cash balances),2.30,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,SSM,Stage 2 loans ratio,9.83,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Germany,Loan-to-deposit ratio,121.00,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Germany,Total assets,5315.8926,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-09-30,2022Q3,Germany,Return on equity (RoE),5.19,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Germany,Cost of risk,0.24,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Germany,Net interest margin,0.86,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Germany,Liquidity coverage ratio,147.82,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Germany,CET1 (Common equity Tier 1) ratio,14.87,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Germany,Non-performing loans ratio (excl. cash balances),1.27,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Germany,Stage 2 loans ratio,10.53,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Italy,Loan-to-deposit ratio,92.35,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Italy,Total assets,2833.7019,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-09-30,2022Q3,Italy,Return on equity (RoE),8.95,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Italy,Cost of risk,0.56,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Italy,Net interest margin,1.28,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Italy,Liquidity coverage ratio,176.29,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Italy,CET1 (Common equity Tier 1) ratio,14.70,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Italy,Non-performing loans ratio (excl. cash balances),3.15,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-09-30,2022Q3,Italy,Stage 2 loans ratio,13.08,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,SSM,Loan-to-deposit ratio,103.52,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,SSM,Total assets,25822.3589,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-12-31,2022Q4,SSM,Return on equity (RoE),7.68,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,SSM,Cost of risk,0.47,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,SSM,Net interest margin,1.36,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,SSM,Liquidity coverage ratio,161.32,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,SSM,CET1 (Common equity Tier 1) ratio,15.39,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,SSM,Non-performing loans ratio (excl. cash balances),2.27,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,SSM,Stage 2 loans ratio,9.62,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Germany,Loan-to-deposit ratio,120.92,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Germany,Total assets,4721.6177,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-12-31,2022Q4,Germany,Return on equity (RoE),5.72,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Germany,Cost of risk,0.27,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Germany,Net interest margin,1.00,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Germany,Liquidity coverage ratio,153.46,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Germany,CET1 (Common equity Tier 1) ratio,15.87,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Germany,Non-performing loans ratio (excl. cash balances),1.28,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Germany,Stage 2 loans ratio,9.75,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Italy,Loan-to-deposit ratio,89.96,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Italy,Total assets,2668.2504,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2022-12-31,2022Q4,Italy,Return on equity (RoE),9.16,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Italy,Cost of risk,0.56,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Italy,Net interest margin,1.48,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Italy,Liquidity coverage ratio,185.24,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Italy,CET1 (Common equity Tier 1) ratio,15.70,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Italy,Non-performing loans ratio (excl. cash balances),2.93,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2022-12-31,2022Q4,Italy,Stage 2 loans ratio,12.20,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,SSM,Loan-to-deposit ratio,105.04,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,SSM,Total assets,26403.9093,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-03-31,2023Q1,SSM,Return on equity (RoE),9.57,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,SSM,Cost of risk,0.46,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,SSM,Net interest margin,1.48,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,SSM,Liquidity coverage ratio,161.25,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,SSM,CET1 (Common equity Tier 1) ratio,15.53,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,SSM,Non-performing loans ratio (excl. cash balances),2.24,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,SSM,Stage 2 loans ratio,9.31,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Germany,Loan-to-deposit ratio,122.57,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Germany,Total assets,4883.0399,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-03-31,2023Q1,Germany,Return on equity (RoE),6.45,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Germany,Cost of risk,0.37,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Germany,Net interest margin,1.07,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Germany,Liquidity coverage ratio,147.79,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Germany,CET1 (Common equity Tier 1) ratio,16.02,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Germany,Non-performing loans ratio (excl. cash balances),1.28,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Germany,Stage 2 loans ratio,9.50,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Italy,Loan-to-deposit ratio,92.88,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Italy,Total assets,2693.2741,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-03-31,2023Q1,Italy,Return on equity (RoE),13.13,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Italy,Cost of risk,0.34,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Italy,Net interest margin,1.86,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Italy,Liquidity coverage ratio,186.80,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Italy,CET1 (Common equity Tier 1) ratio,15.44,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Italy,Non-performing loans ratio (excl. cash balances),2.91,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-03-31,2023Q1,Italy,Stage 2 loans ratio,11.35,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,SSM,Loan-to-deposit ratio,105.09,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,SSM,Total assets,26338.2176,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-06-30,2023Q2,SSM,Return on equity (RoE),10.04,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,SSM,Cost of risk,0.45,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,SSM,Net interest margin,1.53,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,SSM,Liquidity coverage ratio,157.96,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,SSM,CET1 (Common equity Tier 1) ratio,15.71,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,SSM,Non-performing loans ratio (excl. cash balances),2.26,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,SSM,Stage 2 loans ratio,9.19,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Germany,Loan-to-deposit ratio,124.03,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Germany,Total assets,4892.7326,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-06-30,2023Q2,Germany,Return on equity (RoE),6.60,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Germany,Cost of risk,0.33,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Germany,Net interest margin,1.13,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Germany,Liquidity coverage ratio,145.57,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Germany,CET1 (Common equity Tier 1) ratio,16.38,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Germany,Non-performing loans ratio (excl. cash balances),1.38,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Germany,Stage 2 loans ratio,10.08,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Italy,Loan-to-deposit ratio,92.81,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Italy,Total assets,2617.5425,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-06-30,2023Q2,Italy,Return on equity (RoE),13.73,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Italy,Cost of risk,0.34,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Italy,Net interest margin,2.02,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Italy,Liquidity coverage ratio,166.43,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Italy,CET1 (Common equity Tier 1) ratio,15.95,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Italy,Non-performing loans ratio (excl. cash balances),2.78,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-06-30,2023Q2,Italy,Stage 2 loans ratio,11.17,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,SSM,Loan-to-deposit ratio,104.45,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,SSM,Total assets,26779.0223,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-09-30,2023Q3,SSM,Return on equity (RoE),10.01,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,SSM,Cost of risk,0.44,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,SSM,Net interest margin,1.56,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,SSM,Liquidity coverage ratio,158.74,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,SSM,CET1 (Common equity Tier 1) ratio,15.61,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,SSM,Non-performing loans ratio (excl. cash balances),2.27,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,SSM,Stage 2 loans ratio,9.29,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Germany,Loan-to-deposit ratio,119.36,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Germany,Total assets,5190.2470,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-09-30,2023Q3,Germany,Return on equity (RoE),6.65,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Germany,Cost of risk,0.31,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Germany,Net interest margin,1.13,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Germany,Liquidity coverage ratio,146.45,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Germany,CET1 (Common equity Tier 1) ratio,16.36,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Germany,Non-performing loans ratio (excl. cash balances),1.38,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Germany,Stage 2 loans ratio,10.57,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Italy,Loan-to-deposit ratio,90.75,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Italy,Total assets,2600.5996,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-09-30,2023Q3,Italy,Return on equity (RoE),13.73,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Italy,Cost of risk,0.31,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Italy,Net interest margin,2.10,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Italy,Liquidity coverage ratio,170.46,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Italy,CET1 (Common equity Tier 1) ratio,16.18,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Italy,Non-performing loans ratio (excl. cash balances),2.77,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-09-30,2023Q3,Italy,Stage 2 loans ratio,11.33,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,SSM,Loan-to-deposit ratio,102.74,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,SSM,Total assets,25944.3819,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-12-31,2023Q4,SSM,Return on equity (RoE),9.32,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,SSM,Cost of risk,0.46,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,SSM,Net interest margin,1.60,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,SSM,Liquidity coverage ratio,164.30,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,SSM,CET1 (Common equity Tier 1) ratio,15.87,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,SSM,Non-performing loans ratio (excl. cash balances),2.30,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,SSM,Stage 2 loans ratio,9.73,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Germany,Loan-to-deposit ratio,115.22,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Germany,Total assets,4773.8587,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-12-31,2023Q4,Germany,Return on equity (RoE),6.12,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Germany,Cost of risk,0.34,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Germany,Net interest margin,1.17,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Germany,Liquidity coverage ratio,157.25,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Germany,CET1 (Common equity Tier 1) ratio,16.81,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Germany,Non-performing loans ratio (excl. cash balances),1.60,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Germany,Stage 2 loans ratio,11.45,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Italy,Loan-to-deposit ratio,89.71,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Italy,Total assets,2574.2065,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2023-12-31,2023Q4,Italy,Return on equity (RoE),13.70,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Italy,Cost of risk,0.36,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Italy,Net interest margin,2.18,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Italy,Liquidity coverage ratio,180.73,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Italy,CET1 (Common equity Tier 1) ratio,15.90,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Italy,Non-performing loans ratio (excl. cash balances),2.70,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2023-12-31,2023Q4,Italy,Stage 2 loans ratio,11.48,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,SSM,Loan-to-deposit ratio,102.79,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,SSM,Total assets,26614.3363,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-03-31,2024Q1,SSM,Return on equity (RoE),9.67,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,SSM,Cost of risk,0.49,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,SSM,Net interest margin,1.62,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,SSM,Liquidity coverage ratio,157.95,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,SSM,CET1 (Common equity Tier 1) ratio,15.74,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,SSM,Non-performing loans ratio (excl. cash balances),2.31,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,SSM,Stage 2 loans ratio,9.50,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Germany,Loan-to-deposit ratio,114.27,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Germany,Total assets,4994.0447,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-03-31,2024Q1,Germany,Return on equity (RoE),7.37,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Germany,Cost of risk,0.58,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Germany,Net interest margin,1.10,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Germany,Liquidity coverage ratio,145.71,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Germany,CET1 (Common equity Tier 1) ratio,16.51,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Germany,Non-performing loans ratio (excl. cash balances),1.61,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Germany,Stage 2 loans ratio,11.31,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Italy,Loan-to-deposit ratio,90.52,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Italy,Total assets,2554.2177,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-03-31,2024Q1,Italy,Return on equity (RoE),14.81,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Italy,Cost of risk,0.23,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Italy,Net interest margin,2.31,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Italy,Liquidity coverage ratio,168.08,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Italy,CET1 (Common equity Tier 1) ratio,15.93,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Italy,Non-performing loans ratio (excl. cash balances),2.72,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-03-31,2024Q1,Italy,Stage 2 loans ratio,10.31,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,SSM,Loan-to-deposit ratio,102.11,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,SSM,Total assets,26608.5290,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-06-30,2024Q2,SSM,Return on equity (RoE),10.11,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,SSM,Cost of risk,0.46,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,SSM,Net interest margin,1.61,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,SSM,Liquidity coverage ratio,159.47,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,SSM,CET1 (Common equity Tier 1) ratio,15.81,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,SSM,Non-performing loans ratio (excl. cash balances),2.30,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,SSM,Stage 2 loans ratio,9.45,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Germany,Loan-to-deposit ratio,113.93,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Germany,Total assets,4997.1821,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-06-30,2024Q2,Germany,Return on equity (RoE),5.87,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Germany,Cost of risk,0.46,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Germany,Net interest margin,1.07,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Germany,Liquidity coverage ratio,149.47,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Germany,CET1 (Common equity Tier 1) ratio,16.63,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Germany,Non-performing loans ratio (excl. cash balances),1.65,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Germany,Stage 2 loans ratio,12.62,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Italy,Loan-to-deposit ratio,88.98,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Italy,Total assets,2554.9039,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-06-30,2024Q2,Italy,Return on equity (RoE),15.47,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Italy,Cost of risk,0.30,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Italy,Net interest margin,2.31,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Italy,Liquidity coverage ratio,168.17,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Italy,CET1 (Common equity Tier 1) ratio,16.23,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Italy,Non-performing loans ratio (excl. cash balances),2.67,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-06-30,2024Q2,Italy,Stage 2 loans ratio,9.39,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,SSM,Loan-to-deposit ratio,102.01,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,SSM,Total assets,26934.9325,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-09-30,2024Q3,SSM,Return on equity (RoE),10.09,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,SSM,Cost of risk,0.46,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,SSM,Net interest margin,1.58,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,SSM,Liquidity coverage ratio,158.50,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,SSM,CET1 (Common equity Tier 1) ratio,15.73,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,SSM,Non-performing loans ratio (excl. cash balances),2.31,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,SSM,Stage 2 loans ratio,9.74,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Germany,Loan-to-deposit ratio,116.02,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Germany,Total assets,5135.2854,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-09-30,2024Q3,Germany,Return on equity (RoE),5.79,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Germany,Cost of risk,0.49,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Germany,Net interest margin,1.02,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Germany,Liquidity coverage ratio,148.06,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Germany,CET1 (Common equity Tier 1) ratio,16.59,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Germany,Non-performing loans ratio (excl. cash balances),1.74,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Germany,Stage 2 loans ratio,14.72,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Italy,Loan-to-deposit ratio,89.72,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Italy,Total assets,2554.5118,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-09-30,2024Q3,Italy,Return on equity (RoE),15.30,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Italy,Cost of risk,0.27,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Italy,Net interest margin,2.30,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Italy,Liquidity coverage ratio,170.71,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Italy,CET1 (Common equity Tier 1) ratio,16.39,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Italy,Non-performing loans ratio (excl. cash balances),2.63,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-09-30,2024Q3,Italy,Stage 2 loans ratio,9.15,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,SSM,Loan-to-deposit ratio,100.32,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,SSM,Total assets,26842.4029,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-12-31,2024Q4,SSM,Return on equity (RoE),9.54,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,SSM,Cost of risk,0.47,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,SSM,Net interest margin,1.60,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,SSM,Liquidity coverage ratio,158.28,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,SSM,CET1 (Common equity Tier 1) ratio,15.97,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,SSM,Non-performing loans ratio (excl. cash balances),2.28,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,SSM,Stage 2 loans ratio,9.93,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Germany,Loan-to-deposit ratio,112.12,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Germany,Total assets,5026.6176,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-12-31,2024Q4,Germany,Return on equity (RoE),6.00,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Germany,Cost of risk,0.46,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Germany,Net interest margin,1.06,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Germany,Liquidity coverage ratio,147.64,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Germany,CET1 (Common equity Tier 1) ratio,17.21,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Germany,Non-performing loans ratio (excl. cash balances),1.83,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Germany,Stage 2 loans ratio,15.25,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Italy,Loan-to-deposit ratio,87.61,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Italy,Total assets,2531.1989,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2024-12-31,2024Q4,Italy,Return on equity (RoE),14.36,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Italy,Cost of risk,0.32,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Italy,Net interest margin,2.33,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Italy,Liquidity coverage ratio,169.00,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Italy,CET1 (Common equity Tier 1) ratio,16.15,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Italy,Non-performing loans ratio (excl. cash balances),2.52,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2024-12-31,2024Q4,Italy,Stage 2 loans ratio,9.17,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,SSM,Loan-to-deposit ratio,101.92,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,SSM,Total assets,27585.0939,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-03-31,2025Q1,SSM,Return on equity (RoE),9.85,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,SSM,Cost of risk,0.56,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,SSM,Net interest margin,1.53,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,SSM,Liquidity coverage ratio,156.16,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,SSM,CET1 (Common equity Tier 1) ratio,16.02,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,SSM,Non-performing loans ratio (excl. cash balances),2.24,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,SSM,Stage 2 loans ratio,9.76,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Germany,Loan-to-deposit ratio,116.47,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Germany,Total assets,5357.2304,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-03-31,2025Q1,Germany,Return on equity (RoE),7.69,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Germany,Cost of risk,0.87,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Germany,Net interest margin,1.02,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Germany,Liquidity coverage ratio,149.05,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Germany,CET1 (Common equity Tier 1) ratio,17.24,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Germany,Non-performing loans ratio (excl. cash balances),1.70,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Germany,Stage 2 loans ratio,14.88,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Italy,Loan-to-deposit ratio,89.46,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Italy,Total assets,2559.4457,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-03-31,2025Q1,Italy,Return on equity (RoE),15.73,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Italy,Cost of risk,0.29,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Italy,Net interest margin,2.16,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Italy,Liquidity coverage ratio,164.85,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Italy,CET1 (Common equity Tier 1) ratio,16.28,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Italy,Non-performing loans ratio (excl. cash balances),2.52,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-03-31,2025Q1,Italy,Stage 2 loans ratio,8.82,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,SSM,Loan-to-deposit ratio,102.29,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,SSM,Total assets,27749.6513,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-06-30,2025Q2,SSM,Return on equity (RoE),10.11,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,SSM,Cost of risk,0.47,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,SSM,Net interest margin,1.51,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,SSM,Liquidity coverage ratio,157.71,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,SSM,CET1 (Common equity Tier 1) ratio,16.12,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,SSM,Non-performing loans ratio (excl. cash balances),2.22,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,SSM,Stage 2 loans ratio,9.59,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Germany,Loan-to-deposit ratio,117.24,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Germany,Total assets,5355.8759,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-06-30,2025Q2,Germany,Return on equity (RoE),7.01,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Germany,Cost of risk,0.63,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Germany,Net interest margin,1.04,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Germany,Liquidity coverage ratio,148.04,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Germany,CET1 (Common equity Tier 1) ratio,17.25,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Germany,Non-performing loans ratio (excl. cash balances),1.78,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Germany,Stage 2 loans ratio,14.77,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Italy,Loan-to-deposit ratio,89.77,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Italy,Total assets,2599.0626,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-06-30,2025Q2,Italy,Return on equity (RoE),16.08,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Italy,Cost of risk,0.29,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Italy,Net interest margin,2.14,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Italy,Liquidity coverage ratio,167.76,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Italy,CET1 (Common equity Tier 1) ratio,16.18,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Italy,Non-performing loans ratio (excl. cash balances),2.45,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-06-30,2025Q2,Italy,Stage 2 loans ratio,8.57,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,SSM,Loan-to-deposit ratio,101.50,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,SSM,Total assets,27824.6025,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-09-30,2025Q3,SSM,Return on equity (RoE),9.88,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,SSM,Cost of risk,0.48,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,SSM,Net interest margin,1.50,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,SSM,Liquidity coverage ratio,156.70,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,SSM,CET1 (Common equity Tier 1) ratio,16.10,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,SSM,Non-performing loans ratio (excl. cash balances),2.22,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,SSM,Stage 2 loans ratio,9.49,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Germany,Loan-to-deposit ratio,115.20,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Germany,Total assets,5273.8770,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-09-30,2025Q3,Germany,Return on equity (RoE),6.92,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Germany,Cost of risk,0.54,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Germany,Net interest margin,1.05,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Germany,Liquidity coverage ratio,147.25,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Germany,CET1 (Common equity Tier 1) ratio,17.39,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Germany,Non-performing loans ratio (excl. cash balances),1.81,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Germany,Stage 2 loans ratio,14.16,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Italy,Loan-to-deposit ratio,88.80,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Italy,Total assets,2634.7514,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-09-30,2025Q3,Italy,Return on equity (RoE),14.12,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Italy,Cost of risk,0.46,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Italy,Net interest margin,1.99,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Italy,Liquidity coverage ratio,167.67,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Italy,CET1 (Common equity Tier 1) ratio,15.84,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Italy,Non-performing loans ratio (excl. cash balances),2.42,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-09-30,2025Q3,Italy,Stage 2 loans ratio,8.53,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,SSM,Loan-to-deposit ratio,100.49,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,SSM,Total assets,27742.0441,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-12-31,2025Q4,SSM,Return on equity (RoE),9.52,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,SSM,Cost of risk,0.47,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,SSM,Net interest margin,1.52,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,SSM,Liquidity coverage ratio,158.60,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,SSM,CET1 (Common equity Tier 1) ratio,16.26,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,SSM,Non-performing loans ratio (excl. cash balances),2.18,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,SSM,Stage 2 loans ratio,9.33,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Germany,Loan-to-deposit ratio,112.01,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Germany,Total assets,5224.8520,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-12-31,2025Q4,Germany,Return on equity (RoE),6.38,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Germany,Cost of risk,0.47,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Germany,Net interest margin,1.07,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Germany,Liquidity coverage ratio,156.31,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Germany,CET1 (Common equity Tier 1) ratio,17.46,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Germany,Non-performing loans ratio (excl. cash balances),1.85,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Germany,Stage 2 loans ratio,14.76,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Italy,Loan-to-deposit ratio,87.93,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Italy,Total assets,2633.0480,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2025-12-31,2025Q4,Italy,Return on equity (RoE),13.77,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Italy,Cost of risk,0.40,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Italy,Net interest margin,2.03,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Italy,Liquidity coverage ratio,169.20,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Italy,CET1 (Common equity Tier 1) ratio,15.85,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Italy,Non-performing loans ratio (excl. cash balances),2.16,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2025-12-31,2025Q4,Italy,Stage 2 loans ratio,8.37,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,SSM,Loan-to-deposit ratio,101.60,Percent,SUP.Q.B01.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,SSM,Total assets,28868.4573,EUR billions,SUP.Q.B01.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2026-03-31,2026Q1,SSM,Return on equity (RoE),10.02,Percent,SUP.Q.B01.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,SSM,Cost of risk,0.58,Percent,SUP.Q.B01.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,SSM,Net interest margin,1.54,Percent,SUP.Q.B01.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,SSM,Liquidity coverage ratio,153.93,Percent,SUP.Q.B01.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,SSM,CET1 (Common equity Tier 1) ratio,15.99,Percent,SUP.Q.B01.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,SSM,Non-performing loans ratio (excl. cash balances),2.18,Percent,SUP.Q.B01.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,SSM,Stage 2 loans ratio,9.29,Percent,SUP.Q.B01.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Germany,Loan-to-deposit ratio,112.75,Percent,SUP.Q.DE.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Germany,Total assets,5482.6102,EUR billions,SUP.Q.DE.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2026-03-31,2026Q1,Germany,Return on equity (RoE),7.46,Percent,SUP.Q.DE.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Germany,Cost of risk,0.69,Percent,SUP.Q.DE.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Germany,Net interest margin,1.04,Percent,SUP.Q.DE.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Germany,Liquidity coverage ratio,145.79,Percent,SUP.Q.DE.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Germany,CET1 (Common equity Tier 1) ratio,16.95,Percent,SUP.Q.DE.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Germany,Non-performing loans ratio (excl. cash balances),1.84,Percent,SUP.Q.DE.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Germany,Stage 2 loans ratio,14.50,Percent,SUP.Q.DE.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Italy,Loan-to-deposit ratio,89.93,Percent,SUP.Q.IT.W0.S1V.KFD32._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Italy,Total assets,2687.1873,EUR billions,SUP.Q.IT.W0._Z.A0000._T.SII._Z.ALL.LE.E.C
+2026-03-31,2026Q1,Italy,Return on equity (RoE),14.74,Percent,SUP.Q.IT.W0._Z.I2003._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Italy,Cost of risk,0.35,Percent,SUP.Q.IT.W0._Z.I2110._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Italy,Net interest margin,2.03,Percent,SUP.Q.IT.W0._Z.I2120._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Italy,Liquidity coverage ratio,163.88,Percent,SUP.Q.IT.W0._Z.I3017._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Italy,CET1 (Common equity Tier 1) ratio,15.56,Percent,SUP.Q.IT.W0._Z.I4008._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Italy,Non-performing loans ratio (excl. cash balances),2.11,Percent,SUP.Q.IT.W0._Z.I7005._T.SII._Z._Z._Z.PCT.C
+2026-03-31,2026Q1,Italy,Stage 2 loans ratio,8.16,Percent,SUP.Q.IT.W0._Z.I7500._T.SII._Z._Z._Z.PCT.C

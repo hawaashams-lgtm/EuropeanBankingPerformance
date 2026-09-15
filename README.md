@@ -103,4 +103,4 @@ I used Tableau Public for the analysis and dashboard design. The project include
 | `documentation` | Calculation and validation notes |
 | `scripts` | Reproducible data checks |
 
-The Tableau workbook in the tableau folder contains six analysis worksheets and two dashboards.
+The Tableau workbook in the `tableau` folder contains six analysis worksheets and two dashboards.

@@ -103,4 +103,4 @@ I used Tableau Public for the analysis and dashboard design. The project include
 | `documentation` | Calculation and validation notes |
 | `scripts` | Reproducible data checks |
 
-The public workbook is named `EuropeanBankingPerformanceTableau.twbx`. It contains the six analysis worksheets and two dashboards. The internal Data Audit worksheet is kept only in the private development copy.
+The public workbook is named `EuropeanBankingPerformanceTableau.twbx`. It contains the six analysis worksheets and two dashboards. 
